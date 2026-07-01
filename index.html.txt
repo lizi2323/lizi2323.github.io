@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的个人博客</title>
+</head>
+<body>
+    <h1>欢迎来到我的开源实践博客</h1>
+    <h2>第一篇文章</h2>
+    <p>这是使用纯静态HTML + GitHub Pages搭建的博客，无需Hexo。</p>
+</body>
+</html>
