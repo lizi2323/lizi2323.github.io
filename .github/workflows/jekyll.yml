@@ -5,6 +5,11 @@ on:
     branches:
       - main
 
+# 关键修复：为部署任务授予必要的 id-token 写入权限
+permissions:
+  contents: read
+  id-token: write
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest
